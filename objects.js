@@ -1,4 +1,4 @@
-var playlist = { blah: "Moonlight Sonata" }
+var playlist = { Beethoven: "Moonlight Sonata" }
 
 function updatePlaylist(playlist, name, title){
   playlist[name] = title
