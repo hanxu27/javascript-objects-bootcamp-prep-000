@@ -1,1 +1,1 @@
-var playlist = { Beethoven: "Moonlight Sonata"
+var playlist = { Beethoven: "Moonlight Sonata" }
